@@ -5,6 +5,11 @@
 </div>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=25&duration=2200&pause=600&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Abdul+Rehman%2C;MERN+STACK+developer+from+PAKISTAN" alt="Typing SVG" /></a></div>
+
+
+<!-- $$$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$$4--->
+<div align=center><img src="https://streak-stats.demolab.com?user=arcode213&theme=merko&border_radius=5"/> </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arcode213&label=Profile%20views&color=0e75b6&style=flat" alt="arcode213" /> </p>
 
 <p align="center">
