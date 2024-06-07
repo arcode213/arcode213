@@ -4,12 +4,9 @@
   <img src="https://github.com/arcode213/arcode213/assets/140883432/6ecf27e3-a739-4f58-953c-d4ae7eb63830" alt="Animated GIF"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A MERN STACK developer from PAKISTAN</h3>
-
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=25&duration=2200&pause=600&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Abdul+Rehman%2C;MERN+STACK+developer+from+PAKISTAN" alt="Typing SVG" /></a></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arcode213&label=Profile%20views&color=0e75b6&style=flat" alt="arcode213" /> </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
